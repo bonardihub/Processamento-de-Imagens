@@ -6,6 +6,29 @@
 - Mateus Luz Francischini Bonardi
 
 
+## Instalação
+
+Para instalar e executar o projeto:
+
+- Baixe [Python](https://www.python.org/downloads/release/python-3124/) na sua máquina, caso não tenha ainda.
+
+- Certifique-se de baixar o código fonte do projeto no repositório.
+
+- Abrir o projeto em sua IDE de preferência, [Visual Studio Code](https://code.visualstudio.com/download) é recomendado.
+
+Navegue até a pasta principal do projeto em seu terminal.
+
+```bash
+  cd Processamento-de-Imagens-master
+```
+
+Instale as dependências
+```bash
+  pip install -r requirements.txt
+``` 
+
+Pronto! O projeto está preparado para ser executado.
+
 ## Descrição dos descritores implementados
 
 - HOG (Histogram of Oriented Gradients)
