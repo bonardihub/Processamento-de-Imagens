@@ -6,6 +6,11 @@
 - Mateus Luz Francischini Bonardi
 
 
+## Apresentação
+
+Link para o vídeo sobre a apresentação do projeto final.
+
+- https://drive.google.com/file/d/1X3VS2gdZrIbpc1CB3jfUSHl19_8eFOJo/view?usp=sharing
 ## Instalação
 
 Para instalar e executar o projeto:
@@ -28,6 +33,8 @@ Instale as dependências
 ``` 
 
 Pronto! O projeto está preparado para ser executado.
+
+**Importante:** As imagens do dataset devem ser inseridas na pasta "images_full", para posteriormente serem separadas através do "dataSplitter", resultando nas saidas "images_split".
 
 ## Descrição dos descritores implementados
 
