@@ -5,12 +5,6 @@
 
 - Mateus Luz Francischini Bonardi
 
-
-## Apresentação
-
-Link para o vídeo sobre a apresentação do projeto final.
-
-- https://drive.google.com/file/d/1X3VS2gdZrIbpc1CB3jfUSHl19_8eFOJo/view?usp=sharing
 ## Instalação
 
 Para instalar e executar o projeto:
